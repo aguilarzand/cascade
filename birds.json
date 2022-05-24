@@ -1,0 +1,72 @@
+0	
+ID	"001"
+Name	"Eurasian Collared-Dove"
+Type	"Dove"
+1	
+ID	"002"
+Name	"Bald Eagle"
+Type	"Hawk"
+2	
+ID	"003"
+Name	"Cooper's Hawk"
+Type	"Hawk"
+3	
+ID	"004"
+Name	"Bell's Sparrow"
+Type	"Sparrow"
+4	
+ID	"005"
+Name	"Mourning Dove"
+Type	"Dove"
+5	
+ID	"006"
+Name	"Rock Pigeon"
+Type	"Dove"
+6	
+ID	"007"
+Name	"Abert's Towhee"
+Type	"Sparrow"
+7	
+ID	"008"
+Name	"Brewer's Sparrow"
+Type	"Sparrow"
+8	
+ID	"009"
+Name	"Canyon Towhee"
+Type	"Sparrow"
+9	
+ID	"010"
+Name	"Black Vulture"
+Type	"Hawk"
+10	
+ID	"011"
+Name	"Gila Woodpecker"
+Type	"Woodpecker"
+11	
+ID	"012"
+Name	"Gilded Flicker"
+Type	"Woodpecker"
+12	
+ID	"013"
+Name	"Cassin's Sparrow"
+Type	"Sparrow"
+13	
+ID	"014"
+Name	"American Kestrel"
+Type	"Hawk"
+14	
+ID	"015"
+Name	"Hairy Woodpecker"
+Type	"Woodpecker"
+15	
+ID	"016"
+Name	"Lewis's Woodpecker"
+Type	"Woodpecker"
+16	
+ID	"017"
+Name	"Snail Kite"
+Type	"Hawk"
+17	
+ID	"018"
+Name	"White-tailed Hawk"
+Type	"Hawk"
